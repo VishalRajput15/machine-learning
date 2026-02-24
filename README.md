@@ -6,5 +6,7 @@
 
 3 -> https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-4-> 👉 Starbucks Reviews Dataset (reviews + ratings)
-https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+4 -> https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+
+5 -> Fake News Detection
+
