@@ -1,9 +1,7 @@
 Welcome to my Machine Learning repository! This is a collection of end-to-end projects ranging from classic statistical modeling to advanced Natural Language Processing.
 
 ****🚀 Projects Gallery****
-
-
-
+_______________________________________________________________________________________________________________________________________________________________
 
 
 **1. 📈 Linear Regression Implementation**
