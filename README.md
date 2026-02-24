@@ -21,6 +21,7 @@ What it does: It analyzes patient diagnostic measurements—such as glucose leve
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. 🧬 Breast Cancer Diagnosis**
+
 What it is: A binary classification system based on the Wisconsin Breast Cancer dataset.
 
 What it does: It categorizes tumors as either Malignant or Benign by evaluating physical characteristics of cell nuclei, assisting in early-stage medical diagnosis.
